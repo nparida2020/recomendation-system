@@ -16,7 +16,9 @@ Targeting a more relaxed, everyday style, this filter highlights casual t-shirts
 3. Fall Formal Shirts for Men
 This filter is designed for men looking for formal apparel options during the fall. By narrowing the selection to formal shirts, it focuses on garments typically worn in office settings, business meetings, or formal events. These shirts are tailored for a polished look, often coming in solid colors, subtle patterns, or classic designs that complement the professional fall wardrobe. Made from materials suitable for slightly cooler temperatures, this collection balances style, functionality, and season-appropriate comfort.
 
-4. Summer Casual Wear for Men
+<img width="375" alt="Image" src="https://github.com/user-attachments/assets/2b396b8a-6204-41ce-9deb-4b825e61484c" />
+
+5. Summer Casual Wear for Men
 This segment focuses on casual apparel for men during the summer season, prioritizing comfort and laid-back style. Whether it's lightweight t-shirts, shorts, or relaxed-fit shirts, this category is ideal for everyday use, vacations, or outdoor activities. Breathable materials like cotton and linen are common, ensuring that the clothing helps in staying cool while maintaining a modern and effortless aesthetic. This filter serves those who want to look stylish without sacrificing comfort during hot weather.
 
 
