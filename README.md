@@ -64,6 +64,14 @@ df_summer_man_casual_emb.joblib
 df_fall_woman_casual_emb.joblib
 df_fall_man_formal_emb.joblib
 
+Model And Application Deployment:
+I have created a class file named 'FashionRecommend' which includes all the api for the model creation, embbiding input images and styles, computes similarity (cosine) and distance matrix and recomend top 5 samples of the image under selection. 
+User needs to create an "images" folder in the current directory. Also copy styles.csv file and model atrifacts file in the current directory. 
+application , app.py uses FashionRecommend class instanes to recommend the predications. 
+Before running app.py user needs to install python environment dependent packages :---->$> pip install -r requirements.txt
+To run the web server, simply execute streamlit with the main recommender app:
+    
+    $>streamlit run main.py
 
 Conclusions:
 
