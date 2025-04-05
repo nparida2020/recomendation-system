@@ -21,5 +21,6 @@ This filter is designed for men looking for formal apparel options during the fa
 5. Summer Casual Wear for Men
 This segment focuses on casual apparel for men during the summer season, prioritizing comfort and laid-back style. Whether it's lightweight t-shirts, shorts, or relaxed-fit shirts, this category is ideal for everyday use, vacations, or outdoor activities. Breathable materials like cotton and linen are common, ensuring that the clothing helps in staying cool while maintaining a modern and effortless aesthetic. This filter serves those who want to look stylish without sacrificing comfort during hot weather.
 
+<img width="378" alt="Image" src="https://github.com/user-attachments/assets/4c838230-0833-4094-9495-d6199e7ed8bf" />
 
 
