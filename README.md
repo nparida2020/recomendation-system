@@ -10,6 +10,8 @@ This filter caters to women seeking ethnic fashion options during the summer sea
 2. Fall Casual T-shirts for Women
 Targeting a more relaxed, everyday style, this filter highlights casual t-shirts for women that are well-suited for the fall season. As the weather begins to cool, these items often come in slightly thicker fabrics and warmer tones. The selection focuses on comfort without compromising on style, making it ideal for students, professionals, or anyone looking for easy-to-wear options during transitional weather. These pieces often serve as wardrobe staples that can be paired with jeans, jackets, or layered with other fall essentials.
 
+<img width="355" alt="Image" src="https://github.com/user-attachments/assets/d4950642-e0a5-45b4-a7ec-5843ef5e13ea" />
+
 
 3. Fall Formal Shirts for Men
 This filter is designed for men looking for formal apparel options during the fall. By narrowing the selection to formal shirts, it focuses on garments typically worn in office settings, business meetings, or formal events. These shirts are tailored for a polished look, often coming in solid colors, subtle patterns, or classic designs that complement the professional fall wardrobe. Made from materials suitable for slightly cooler temperatures, this collection balances style, functionality, and season-appropriate comfort.
