@@ -24,3 +24,6 @@ This segment focuses on casual apparel for men during the summer season, priorit
 <img width="378" alt="Image" src="https://github.com/user-attachments/assets/4c838230-0833-4094-9495-d6199e7ed8bf" />
 
 
+Model Architecture:
+
+<img width="598" alt="Image" src="https://github.com/user-attachments/assets/1ed2ce00-7e5b-47bb-93ad-2a2e60296577" />
