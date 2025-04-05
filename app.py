@@ -126,7 +126,7 @@ def main():
     if img_file is not None:
         img = load_and_preprocess_image(img_file)
         if img is not None:
-            df_embeddings = joblib.load('df_embeddings.joblib')
+            df_embeddings = joblib.load('df_summer_woman_ethinic_emb.joblib')
             styles_path = './styles.csv'
             obj = FashionRecommend(img_path=img_file, df_embeddings=df_embeddings, styles_path=styles_path)
             obj.show_recommendations()
