@@ -77,3 +77,7 @@ Conclusions:
 
 The segmentation of fashion data using filtered DataFrames has proven to be a highly effective approach for building a targeted and personalized recommendation system. By categorizing products based on key attributes such as season, gender, category, article type, and usage, we are able to deliver precise recommendations tailored to specific user preferences and contexts. This not only enhances the user shopping experience but also increases engagement and conversion rates. The defined segments—ranging from summer ethnic kurtas for women to fall formal shirts for men—demonstrate the power of data-driven filtering in curating relevant fashion collections. Moving forward, these filtered insights can be integrated into a larger recommendation engine, enriched with user interaction data and deep learning models, such as ResNet50 for visual features, to offer even more refined and personalized suggestions.
 
+Github link of the project:
+
+https://github.com/nparida2020/recommendation-system
+
