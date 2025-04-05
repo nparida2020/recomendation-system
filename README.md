@@ -5,6 +5,8 @@ In today’s fast-paced digital shopping landscape, a Fashion Recommendation Sys
 1. Summer Ethnic Kurtas for Women
 This filter caters to women seeking ethnic fashion options during the summer season. Specifically focusing on kurtas under the apparel category, this selection is ideal for those who prefer traditional or cultural attire in warm weather. These garments are typically made of breathable fabrics like cotton and are designed to offer both comfort and elegance. Perfect for casual daywear, small gatherings, or festive occasions, this collection ensures women can stay stylish and culturally expressive while beating the summer heat.
 
+<img width="267" alt="Image" src="https://github.com/user-attachments/assets/76bf1605-d12b-4bdd-abd0-8292ec964157" />
+
 2. Fall Casual T-shirts for Women
 Targeting a more relaxed, everyday style, this filter highlights casual t-shirts for women that are well-suited for the fall season. As the weather begins to cool, these items often come in slightly thicker fabrics and warmer tones. The selection focuses on comfort without compromising on style, making it ideal for students, professionals, or anyone looking for easy-to-wear options during transitional weather. These pieces often serve as wardrobe staples that can be paired with jeans, jackets, or layered with other fall essentials.
 
